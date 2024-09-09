@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|c:\\users\\cristian tique\\source\\repos\\apimarket\\apimarket\\controllers\\responsible.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|solutionrelative:apimarket\\controllers\\responsible.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|c:\\users\\cristian tique\\source\\repos\\apimarket\\apimarket\\models\\responsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|solutionrelative:apimarket\\models\\responsible.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|c:\\users\\cristian tique\\source\\repos\\apimarket\\apimarket\\controllers\\production.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D7CCFD-94F2-4ACB-9ECE-2FFD57C96CF1}|Apimarket\\Apimarket.csproj|solutionrelative:apimarket\\controllers\\production.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Production.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Controllers\\Production.Controller.cs",
+              "RelativeDocumentMoniker": "Apimarket\\Controllers\\Production.Controller.cs",
+              "ToolTip": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Controllers\\Production.Controller.cs",
+              "RelativeToolTip": "Apimarket\\Controllers\\Production.Controller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:41:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Responsible.Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Controllers\\Responsible.Controller.cs",
+              "RelativeDocumentMoniker": "Apimarket\\Controllers\\Responsible.Controller.cs",
+              "ToolTip": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Controllers\\Responsible.Controller.cs*",
+              "RelativeToolTip": "Apimarket\\Controllers\\Responsible.Controller.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:36:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Responsible.Model.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Models\\Responsible.Model.cs",
+              "RelativeDocumentMoniker": "Apimarket\\Models\\Responsible.Model.cs",
+              "ToolTip": "C:\\Users\\Cristian Tique\\source\\repos\\Apimarket\\Apimarket\\Models\\Responsible.Model.cs*",
+              "RelativeToolTip": "Apimarket\\Models\\Responsible.Model.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:36:05.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
